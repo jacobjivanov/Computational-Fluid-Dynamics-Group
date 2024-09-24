@@ -1,0 +1,10 @@
+M = 512 # square computational grid dimensions
+N = 10 # number of particles
+T = 150 # end time
+nu = 2e-4 # kinematic viscosity, see note above
+cfl_max = 0.7 # Courant–Friedrichs–Lewy Condition Number
+tau = 1 # inertial time
+beta = 1 # periods within the [0, 2π) domain
+gamma = 0.02 # perturbation magnitude
+forced = True
+rng_seed = 123

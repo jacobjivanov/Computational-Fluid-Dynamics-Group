@@ -1,0 +1,6 @@
+{
+   "C_Cpp.errorSquiggles": "enabled",
+   "files.associations": {
+      "fftw3.h": "c"
+   }
+}
